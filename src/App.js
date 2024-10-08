@@ -1,11 +1,11 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
-import Accueil from "./container/accueil.jsx";
-import Services from "./container/services.jsx";
-import Réalisations from "./container/réalisations.jsx";
-import Blog from "./container/blog.jsx";
-import Mecontacter from "./container/mecontacter.jsx";
+import Accueil from "./container/Accueil.jsx";
+import Services from "./container/Services.jsx";
+import Réalisations from "./container/Réalisations.jsx";
+import Blog from "./container/Blog.jsx";
+import Mecontacter from "./container/Mecontacter.jsx";
 
 export default function App() {
   return (
